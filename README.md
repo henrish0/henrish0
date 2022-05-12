@@ -42,10 +42,12 @@
 </p>
 
 <h4 align="center">Meu perfil:</h4>
-<p align="center"><img
-        src="https://github-readme-stats.vercel.app/api?username=henrish0&show_icons=true&theme=synthwave"
-        alt="henrish0 :: Profile Stats" />
+<p align="center"><a href="#">
+<img alt="henrish0" src="https://github-readme-stats.vercel.app/api?username=henrish0&show_icons=true&theme=synthwave">
+    </a>
 </p>
+
+
 
 <h2 align="center">Contato</h2>
 <p align="center">
