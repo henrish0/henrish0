@@ -20,6 +20,10 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LUA" />
     </a>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=Bash&logoColor=white" alt="Bash" />
+    </a>
 </p>
 
 ## Frameworks
@@ -31,6 +35,30 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Bootstrap-38B2AC?style=for-the-badge&logo=bootstrap&logoColor=white"
             alt="Bootstrap" />
+    </a>
+</p>
+
+## Design
+<p align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+            alt="Figma" />
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
+            alt="Adobe PS" />
+    </a>
+</p>
+
+## 
+<p align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+            alt="GIT" />
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+            alt="Github" />
     </a>
 </p>
 
@@ -46,7 +74,7 @@
 <h4 align="center">Meu perfil:</h4>
 <p align="center"><a href="#">
         <img alt="henrish0"
-            src="https://github-readme-stats.vercel.app/api?username=henrish0&show_icons=true&theme=synthwave">
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrish0&theme=synthwave">
     </a>
 </p>
 
@@ -66,10 +94,10 @@
         <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="30" width="30">
     </a>
     <a href="https://discord.com/users/940065757956558928">
-        <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Telegram" height="30"
+        <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" height="30"
             width="30">
     </a>
     <a href="https://teams.microsoft.com/l/chat/0/0?users=hcarvalhoalmeida7@gmail.com">
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams.svg" alt="Telegram" height="30" width="30">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams.svg" alt="Teams" height="30" width="30">
     </a>
 </p>
