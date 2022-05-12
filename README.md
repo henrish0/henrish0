@@ -67,14 +67,14 @@
 <p align="center">
     <a href="#">
         <img alt="henrish0"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrish0&langs_count=10&theme=tokyonight&layout=compact">
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrish0&theme=synthwave">
     </a>
 </p>
 
 <h4 align="center">Meu perfil:</h4>
 <p align="center"><a href="#">
         <img alt="henrish0"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrish0&theme=synthwave">
+            src="https://github-readme-stats.vercel.app/api?username=henrish0&show_icons=true&theme=synthwave">
     </a>
 </p>
 
