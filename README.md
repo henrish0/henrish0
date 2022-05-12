@@ -60,20 +60,20 @@
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
                 alt="Github">
         </a>
-    </p>
-    <h2 align="center">Meu perfil:</h2>
+    </p><br><br>
+    <h3 align="center">Meu perfil:</h3>
     <div align="center" style="display: inline_block">
         <a href="#">
             <img alt="henrish0"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrish0&layout=compact&langs_count=10&theme=synthwave"
-                height="180em">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrish0&layout=compact&langs_count=10&hide_border=true"
+                height="150rem">
         </a>
         <a href="#">
             <img alt="henrish0"
-                src="https://github-readme-stats.vercel.app/api?username=henrish0&show_icons=true&theme=synthwave"
-                height="180em">
+                src="https://github-readme-stats.vercel.app/api?username=henrish0&show_icons=true&hide_border=true"
+                height="150rem">
         </a>
-    </div>
+    </div><br>
     <h2 align="center">Contato</h2>
     <p align="center">
         <a href="https://www.linkedin.com/in/henrique-almeida100/">
