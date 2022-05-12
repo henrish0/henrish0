@@ -1,5 +1,5 @@
-<h1 align= "center"><b>Hello World! 🌎</b></h1>
-<h3 align= "center">Meu nome é Henrique Almeida, sou estudante de engenharia de software</h3>
+<h1 align="center"><b>Hello World! 🌎</b></h1>
+<h3 align="center">Meu nome é Henrique Almeida, sou estudante de engenharia de software</h3>
 
 ## Linguagens
 <p align="center">
@@ -36,18 +36,19 @@
 
 ##
 <h4 align="center">Meus diretórios:</h4>
-<p align="center"><img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrish0&langs_count=10&theme=tokyonight&layout=compact"
-        alt="henrish0 :: Top Langs" />
+<p align="center">
+    <a href="#">
+        <img alt="henrish0"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrish0&langs_count=10&theme=tokyonight&layout=compact">
+    </a>
 </p>
 
 <h4 align="center">Meu perfil:</h4>
 <p align="center"><a href="#">
-<img alt="henrish0" src="https://github-readme-stats.vercel.app/api?username=henrish0&show_icons=true&theme=synthwave">
+        <img alt="henrish0"
+            src="https://github-readme-stats.vercel.app/api?username=henrish0&show_icons=true&theme=synthwave">
     </a>
 </p>
-
-
 
 <h2 align="center">Contato</h2>
 <p align="center">
