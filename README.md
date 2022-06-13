@@ -25,8 +25,8 @@
             <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LUA">
         </a>
         <a href="#">
-            <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=Bash&logoColor=white"
-                alt="Bash" />
+            <img src="https://img.shields.io/badge/Bat-4EAA25?style=for-the-badge&logo=Bat&logoColor=white"
+                alt="Bat" />
         </a>
     </p>
     <h2 align="center">Frameworks</h2>
