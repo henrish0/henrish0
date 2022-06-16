@@ -3,7 +3,6 @@
 
 <body>
     <h1 align="center"><b>Hello World! 🌎</b></h1>
-![Metrics](/github-metrics.svg)
     <h3 align="center">Meu nome é Henrique Almeida, sou estudante de engenharia de software</h3><br><br>
     <h2 align="center">Linguagens</h2>
     <p align="center">
